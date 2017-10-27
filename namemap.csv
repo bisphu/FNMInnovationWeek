@@ -1,0 +1,16 @@
+key, value
+fname, firstname
+f_name, firstname
+firstname, firstname 
+lname, lastname
+l_name, lastname
+lasttname, lastname 
+DOB, dateofbirth
+BirthDate,dateofbirth
+SSN,SocialSecurityNumber
+Social,SocialSecurityNumber
+ADDR,Address
+LOC,"Address
+address1, Address
+address2, Address
+phonenum, phonenum
